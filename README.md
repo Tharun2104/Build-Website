@@ -21,6 +21,11 @@ Throughout this project, I learned:
 - Integrating and customizing MkDocs themes.
 - Deploying a static site to GitHub Pages.
 
+## Visit the Site
+
+[![Visit the Site](https://img.shields.io/badge/Visit%20the%20Site-0073e6?style=for-the-badge)](https://tharun2104.github.io/Build-Website/)
+
+
 Feel free to explore the code and the documentation site. If you have any suggestions or improvements, I'd love to hear them!
 
 ## License
