@@ -1,0 +1,91 @@
+/* 
+/* General Styles  */
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #e0e0e0;
+    background-color: #121212;
+}
+
+/* Header Styles */
+.md-header {
+    background-color: #6200ea;
+    color: #ffffff;
+}
+
+.md-header .md-logo a {
+    color: #ffffff;
+    font-size: 1.5em;
+}
+
+.md-header .md-nav {
+    background-color: #6200ea;
+}
+
+.md-header .md-nav a {
+    color: #ffffff;
+}
+
+/* Footer Styles */
+.md-footer {
+    background-color: #6200ea;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+
+.md-footer a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.md-footer a:hover {
+    text-decoration: underline;
+}
+
+/* Page Content Styles */
+.md-content {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+.md-content h1, .md-content h2, .md-content h3 {
+    color: #bb86fc;
+}
+
+.md-content a {
+    color: #03dac6;
+}
+
+.md-content a:hover {
+    text-decoration: underline;
+}
+
+/* Code Block Styles */
+pre {
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+    border-radius: 5px;
+    padding: 10px;
+    overflow-x: auto;
+}
+
+code {
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+    border-radius: 5px;
+}
+
+/* Custom Button Styles */
+button {
+    background-color: #03dac6;
+    color: #121212;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #03a89e;
+}
